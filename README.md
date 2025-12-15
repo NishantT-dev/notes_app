@@ -1,2 +1,2 @@
 # notes_app
-It contains Notes app Project which helped me to build strong logics in Backend Dev. Author : Nishant_Thakur
+It contains simple project named Notes app which helped me to build strong logics in Backend Dev. <br> Author : Nishant_Thakur <br>
